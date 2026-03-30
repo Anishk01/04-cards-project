@@ -37,4 +37,3 @@ git clone https://github.com/your-username/04-cards-project.git
 cd 04-cards-project
 npm install
 npm run dev
->>>>>>> 94ece75ea837e8e5cda3893d99d27d7806a33214
